@@ -35,7 +35,7 @@ Ubuntu 20.04
 
 ## Bitcoin Node Configuration
 
-#### 1. Update repositories and install `wget`.
+#### 1. Update repositories and install `git`.
 ```shell
 sudo apt update
 sudo apt-get update
