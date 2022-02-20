@@ -46,8 +46,9 @@ sudo apt install -y git
 ```shell
 sudo apt-get install -y build-essential libtool autotools-dev automake pkg-config bsdmainutils python3
 sudo apt-get install -y libevent-dev libboost-dev libboost-system-dev libboost-filesystem-dev libboost-test-dev
+```
 
-# Install SQLLite for wallet
+##### SQLLite for wallet
 ```shell
 sudo apt install -y libsqlite3-dev
 ```
